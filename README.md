@@ -1,18 +1,18 @@
 # IremGulten_ExtensionMethods
-#2.Hafta Extension Metot ödevi<br>
+## 2.Hafta Extension Metot ödevi<br>
 Ödev kapsamında 7 farklı extension metot oluşturulmuştur.<br>
-# FinalEtkisi 
+## FinalEtkisi 
 Final notunun dönem notuna etkisini hesaplayan extension metot. <br><br>
-# VizeEtkisi 
+## VizeEtkisi 
 Vize notunun dönem notuna etkisini hesaplayan extension metot. <br><br>
-# DogumYili 
+## DogumYili 
 Kullanıcıdan alınan yaş bilgisine göre doğum yılını hesaplayan extension metot. <br><br>
-# TLtoUSD 
+## TLtoUSD 
 Türk Lirası'nı Dolara çeviren extension metot. <br><br>
-# USDtoTL 
+## USDtoTL 
 Dolar'ı Türk Lirası'na çeviren extension metot.<br><br>
-# TLtoEURO 
+## TLtoEURO 
 Türk Lirası'nı Euro'ya çeviren extension metot. <br><br>
-# EUROtoTL
+## EUROtoTL
 Euro'yu Türk Lirasına çeviren extension metot. <br><br>
   
