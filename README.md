@@ -2,17 +2,17 @@
 #2.Hafta Extension Metot ödevi<br>
 Ödev kapsamında 7 farklı extension metot oluşturulmuştur.<br>
 # FinalEtkisi 
-Final notunun dönem notuna etkisini hesaplayan metot. <br><br>
+Final notunun dönem notuna etkisini hesaplayan extension metot. <br><br>
 # VizeEtkisi 
-Vize notunun dönem notuna etkisini hesaplayan metot. <br><br>
+Vize notunun dönem notuna etkisini hesaplayan extension metot. <br><br>
 # DogumYili 
-Kullanıcıdan alınan yaş bilgisine göre doğum yılını hesaplayan metot. <br><br>
+Kullanıcıdan alınan yaş bilgisine göre doğum yılını hesaplayan extension metot. <br><br>
 # TLtoUSD 
-Türk lirasının Dolara çevrilmesi <br><br>
+Türk Lirası'nı Dolara çeviren extension metot. <br><br>
 # USDtoTL 
-Doların Türk Lirasına çevrilmesi <br><br>
+Dolar'ı Türk Lirası'na çeviren extension metot.<br><br>
 # TLtoEURO 
-Türk lirasının Euro'ya çevrilmesi <br><br>
+Türk Lirası'nı Euro'ya çeviren extension metot. <br><br>
 # EUROtoTL
-Euro'nun Türk Lirasına çevrilmesi <br><br>
+Euro'yu Türk Lirasına çeviren extension metot. <br><br>
   
